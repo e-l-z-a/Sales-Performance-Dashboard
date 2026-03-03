@@ -1,0 +1,9 @@
+CustomerID,CustomerName,Gender,Age,Segment,City,State
+101,Emma Johnson,F,29,Consumer,Chicago,IL
+102,Liam Smith,M,45,Corporate,Detroit,MI
+103,Olivia Brown,F,34,Small Business,Columbus,OH
+104,Noah Davis,M,52,Corporate,Grand Rapids,MI
+105,Ava Wilson,F,23,Consumer,Cleveland,OH
+106,James Miller,M,39,Small Business,Houston,TX
+107,Sophia Taylor,F,31,Consumer,Los Angeles,CA
+108,Benjamin Anderson,M,47,Corporate,Dallas,TX
